@@ -1,0 +1,1 @@
+The following jupyter notebook follows through the analysis of Philips CPAP mask complaints with information such as the brand of mask, country of origin, the detailed complaint, and more. The analysis computed here describes the predictability of a given country based on the brand of complaint and the damage code for that product.
