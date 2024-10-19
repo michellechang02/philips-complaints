@@ -6,3 +6,5 @@ scikit-learn
 openpyxl
 vaderSentiment
 nltk
+xgboost
+imbalanced-learn
